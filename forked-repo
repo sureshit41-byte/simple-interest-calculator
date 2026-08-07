@@ -1,0 +1,11 @@
+curl -H "Accept: application/vnd.github+json" https://api.github.com/repos/sureshit41-byte/mcino-Introduction-to-Git-and-GitHub
+
+Output:
+
+"full_name": "sureshit41-byte/mcino-Introduction-to-Git-and-GitHub"
+
+"fork": true
+
+"parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
